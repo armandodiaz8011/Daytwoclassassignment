@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+<p><a href="https://www.computerhope.com/" target="_blank">Computer Hope</a></p>
+<br>
+<p>Click here to view <a href="#">more</p>
+<br>
+<strong>Click <a href="http://www.google.com">here</a> to go to Google.</strong>
+<br>
+<p>
+
+        <iframe width="460" height="345" src="https://www.youtube.com/embed/Jx-ILeetZK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        
+<img src="https://static1.squarespace.com/static/5b429271372b967549faae2e/t/5b43a088f950b7ecf8526ca2/1531158675688/Pineapple+SQ2.jpg" width="460" height="345">
+</p>
+<br> 
+<h1><strong>This is a Heading</strong></h1>
+<p>This is a paragraph.</p>
+<ul>
+    <li>The Killers</li>
+    <li>Kings of Leon</li>
+    <li>Liam Gallagher</li>
+    <li>Dave Matthews Band</li>
+    <li>Random Band 2</li>
+</ul>
+
+<ol>
+    <li>Bread</li>
+    <li>Condiment of your choice</li>
+    <li>Sliced cheese of your choice</li>
+    <li>Deli meat of your choice</li>
+    <li>Slice and serve</li>
+</ol>
+
+<h2>Animal Class and their Animal Names</h2>
+<table style="width:15%">
+        <tr>
+          <th>Cat breeds</th>
+          <th>Dog breeds</th> 
+        </tr>
+        <tr>
+          <td>Russian Blue</td>
+          <td>Bulldog</td>
+        </tr>
+        <tr>
+          <td>Persian</td>
+          <td>German Shepherd</td>
+        </tr>
+        <tr>
+          <td>Scottish Fold</td>
+          <td>Beagle</td>
+        </tr>
+        <tr>
+        <td>British Shorthair</td>
+        <td>Poodle</td>
+        </tr>
+        <tr>
+        <td>Ragdoll</td>
+        <td>Pug</td>
+        </tr>
+      </table>
+
+</body>
+</html>
