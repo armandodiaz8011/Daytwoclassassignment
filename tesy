@@ -23,9 +23,9 @@
 <h1><strong>This is a Heading</strong></h1>
 <p>This is a paragraph.</p>
 <ul>
-    <li>The Killers</li>
+    <li><strong>The Killers</strong></li>
     <li>Kings of Leon</li>
-    <li>Liam Gallagher</li>
+    <li><strong>Liam Gallagher</strong></li>
     <li>Dave Matthews Band</li>
     <li>Random Band 2</li>
 </ul>
@@ -35,13 +35,13 @@
     <li>Condiment of your choice</li>
     <li>Sliced cheese of your choice</li>
     <li>Deli meat of your choice</li>
-    <li>Slice and serve</li>
+    <li><strong>Slice and serve</strong></li>
 </ol>
 
 <h2>Animal Class and their Animal Names</h2>
 <table style="width:15%">
         <tr>
-          <th>Cat breeds</th>
+          <th><strong>Cat breeds</strong></th>
           <th>Dog breeds</th> 
         </tr>
         <tr>
